@@ -1,0 +1,26 @@
+_repo: The-Coming-of-the-Friars_6625
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jessopp, Augustus
+    alias: Jessopp, A. (Augustus)
+    birthdate: 1823
+    deathdate: 1914
+    gutenberg_agent_id: '2118'
+    url: http://www.gutenberg.org/2009/agents/2118
+    wikipedia: http://en.wikipedia.org/wiki/Augustus_Jessopp
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Medieval period, 1066-1485'
+- !lcc 'DA'
+- GITenberg
+title: The Coming of the Friars
+url: http://www.gutenberg.org/ebooks/6625
